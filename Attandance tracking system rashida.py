@@ -1,6 +1,5 @@
 import csv
 import datetime
-
 # File to store attendance
 ATTENDANCE_FILE = "attendance.csv"
 
