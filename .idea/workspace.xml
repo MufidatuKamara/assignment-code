@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a68e9e6-032c-40bc-8b72-df748bf1e018" name="Changes" comment="Git commit -m &quot;message&quot;&#10;git push">
+    <list default="true" id="3a68e9e6-032c-40bc-8b72-df748bf1e018" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attandance tracking system shida bae.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attandance tracking system shida bae.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school record record management system.py" beforeDir="false" afterPath="$PROJECT_DIR$/school record record management system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MufidatuKamara&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="09a10407-f5f5-4d0f-87b8-3711c4291057" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MufidatuKamara/assignment-code.git&quot;,
+    &quot;accountId&quot;: &quot;09a10407-f5f5-4d0f-87b8-3711c4291057&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -36,35 +54,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Attandance tracking system shida.executor": "Run",
-    "Python.Attandance tracking system.executor": "Run",
-    "Python.Attendance tracking system.executor": "Run",
-    "Python.school record record management system.executor": "Run",
-    "Python.shop sales.executor": "Run",
-    "Python.student record management system.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master-shida",
-    "last_opened_file_path": "C:/Users/Mufida/PycharmProjects/PythonProject1/.idea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Attandance tracking system shida bae.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attandance tracking system shida.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attandance tracking system shidakamara.executor&quot;: &quot;Coverage&quot;,
+    &quot;Python.Attandance tracking system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attendance tracking system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paul ...executor&quot;: &quot;Run&quot;,
+    &quot;Python.paul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.school record record management system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shishi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shop sales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student record management system.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master-shida&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mufida/PycharmProjects/PythonProject1/.idea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mufida\PycharmProjects\PythonProject1\.idea" />
       <recent name="C:\Users\Mufida\PycharmProjects\PythonProject1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="shishi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shishi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shishi" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -98,6 +153,14 @@
       <workItem from="1779355683415" duration="82000" />
       <workItem from="1779355949275" duration="961000" />
       <workItem from="1779356952274" duration="800000" />
+      <workItem from="1779358947698" duration="1318000" />
+      <workItem from="1779361741742" duration="113000" />
+      <workItem from="1779361865564" duration="186000" />
+      <workItem from="1779362093365" duration="3755000" />
+      <workItem from="1779580590359" duration="226000" />
+      <workItem from="1779617083183" duration="4000" />
+      <workItem from="1781980246036" duration="56000" />
+      <workItem from="1781980325295" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Git">
       <option name="closed" value="true" />
@@ -141,7 +204,8 @@
     <MESSAGE value="Git" />
     <MESSAGE value="Git commit-m" />
     <MESSAGE value="Git commit -m &quot;message&quot;&#10;git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git commit -m &quot;message&quot;&#10;git push" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Attendance_tracking_system.coverage" NAME="Attendance tracking system Coverage Results" MODIFIED="1778007974164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
