@@ -51,37 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Attandance tracking system shida bae.executor": "Run",
-    "Python.Attandance tracking system shida.executor": "Run",
-    "Python.Attandance tracking system shidakamara.executor": "Coverage",
-    "Python.Attandance tracking system.executor": "Run",
-    "Python.Attendance tracking system.executor": "Run",
-    "Python.paul ...executor": "Run",
-    "Python.paul.executor": "Run",
-    "Python.school record record management system.executor": "Run",
-    "Python.shishi.executor": "Run",
-    "Python.shop sales.executor": "Run",
-    "Python.student acdemic portal.executor": "Run",
-    "Python.student record management system.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Mufida/PycharmProjects/PythonProject1/.idea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Attandance tracking system shida bae.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attandance tracking system shida.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attandance tracking system shidakamara.executor&quot;: &quot;Coverage&quot;,
+    &quot;Python.Attandance tracking system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attendance tracking system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paul ...executor&quot;: &quot;Run&quot;,
+    &quot;Python.paul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.school record record management system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shishi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shop sales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student acdemic portal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student record management system.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mufida/PycharmProjects/PythonProject1/.idea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mufida\PycharmProjects\PythonProject1\.idea" />
